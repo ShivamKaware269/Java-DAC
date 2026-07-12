@@ -11,7 +11,7 @@ public class Rectangle_Area {
         System.out.print("Enter the bredth of the rectangle : ");
         float b = sc.nextFloat();
 
-        System.out.println("The Area of the rectangle : " + (b*l)); //Type casting
+        System.out.println("The Area of the rectangle : " + (b*l) + " sq.m"); //Type casting
 
         sc.close();
     }
