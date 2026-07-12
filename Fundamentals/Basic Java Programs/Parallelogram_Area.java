@@ -10,7 +10,7 @@ public class Parallelogram_Area {
         System.out.print("Enter the perpendicular height of the parallelogram : ");
         float h = sc.nextFloat();
 
-        System.out.println("The Area of the parallelogram : " + (b * h));
+        System.out.println("The Area of the parallelogram : " + (b * h) + " sq.m");
 
         sc.close();
     }
