@@ -8,7 +8,7 @@ public class Equilateral_Triangle_Area {
         System.out.print("Enter the length of the side of the equilateral triangle : ");
         float a = sc.nextFloat();
 
-        System.out.println("The Area of the equilateral triangle : " + ((Math.sqrt(3)/4)*a*a));
+        System.out.println("The Area of the equilateral triangle : " + ((Math.sqrt(3)/4)*a*a) + " sq.m");
 
         sc.close();
     }
