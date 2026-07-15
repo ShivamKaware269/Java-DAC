@@ -1,2 +1,3 @@
-🚀 Java DAC
-A collection of Data Structures and Algorithms in Java Programming Language featuring multiple conceptual questions related to industry based standards in this generation of Al ChatBots. Designed for learning, maintaining consistency and coding interview preparation.
+🚀 Java DAC.
+A collection of Data Structures and Algorithms in Java Programming Language featuring multiple conceptual questions related to industry based standards in this generation of Al ChatBots. 
+Designed for learning, maintaining consistency and coding interview preparation.
