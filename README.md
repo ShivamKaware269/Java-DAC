@@ -11,5 +11,3 @@ While AI can generate code instantly, understanding **how** data structures work
 * Java
 * IntelliJ IDEA / VS Code
 * Git & GitHub
-
-This repository is intended for students, beginners, and aspiring software engineers who want to build a strong foundation in Data Structures and Algorithms using Java.
