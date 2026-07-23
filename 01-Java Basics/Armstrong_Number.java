@@ -1,3 +1,5 @@
+// Armstrong Number (A number that is equal to the sum of its own digits each raised to the power of the total number of digits.)
+
 import java.util.Scanner;
 
 public class Armstrong_Number {
