@@ -1,3 +1,5 @@
+// Palindrome of the number (A palindrome number is any integer that reads the same forwards and backward)
+
 import java.util.Scanner;
 
 public class Number_Palindrome {
