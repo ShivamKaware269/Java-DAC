@@ -1,4 +1,4 @@
-// Perform Concatenation of the Array without using any built-in functions
+// Concatenation of Array problem (LeetCode 1929)
 
 import java.util.Arrays;
 import java.util.Scanner;
