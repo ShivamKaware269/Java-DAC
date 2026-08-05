@@ -1,3 +1,5 @@
+// A program to calculate the product of the two numbers using methods (Functions)
+
 import java.util.Scanner;
 
 public class Product_Of_Two {
