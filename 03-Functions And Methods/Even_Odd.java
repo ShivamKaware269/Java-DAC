@@ -1,3 +1,5 @@
+// Checking if the number is even or odd using methods (Functions)
+
 import java.util.Scanner;
 
 public class Even_Odd {
@@ -15,7 +17,9 @@ public class Even_Odd {
         }
         sc.close();
     }
-   
+
+// Method
+    
     static int check(int a) {
 
         if (a % 2 == 0) {
