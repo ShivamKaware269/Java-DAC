@@ -1,4 +1,5 @@
-// Armstrong Number (A number that is equal to the sum of its own digits each raised to the power of the total number of digits.)
+// Write a program to identify whether the number is Armstrong Number or not. 
+// ( A number that is equal to the sum of its own digits each raised to the power of the total number of digits. )
 
 import java.util.Scanner;
 
