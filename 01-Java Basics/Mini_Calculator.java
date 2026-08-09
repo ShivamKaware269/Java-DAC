@@ -28,4 +28,3 @@ public class Mini_Calculator {
         sc.close();
     }
 }
-
