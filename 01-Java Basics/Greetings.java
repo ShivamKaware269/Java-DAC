@@ -1,4 +1,4 @@
-// Take name as input and print a greeting message for that particular name.
+// Program to take name as input and print a greeting message for that particular name.
 
 import java.util.Scanner;
 
@@ -14,4 +14,3 @@ public class Greeting {
         sc.close();
     }
 }
-
