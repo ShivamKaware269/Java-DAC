@@ -1,4 +1,4 @@
-// To calculate Fibonacci Series up to n numbers.
+// Program to calculate Fibonacci Series of the entered number.
 
 import java.util.Scanner;
 
