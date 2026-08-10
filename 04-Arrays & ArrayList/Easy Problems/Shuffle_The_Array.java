@@ -1,7 +1,10 @@
+// Leetcode - 1470
+
 import java.util.Arrays;
 
 public class Shuffle_The_Array {
     public static void main(String[] args) {
+        
         int[] nums = {2,5,1,3,4,7};
         int[] ans = new int[nums.length];
         int mid = nums.length / 2;
