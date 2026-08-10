@@ -1,11 +1,13 @@
-// Concatenation of Array problem (LeetCode 1929)
+// LeetCode - 1929
 
 import java.util.Arrays;
 import java.util.Scanner;
 
 public class Concatenation_Of_Array {
     public static void main(String[] args) {
+        
         Scanner sc = new Scanner(System.in);
+        
         System.out.print("Enter the size of the array: ");
         int n = sc.nextInt();
         int[] arr = new int[n];
@@ -27,5 +29,4 @@ public class Concatenation_Of_Array {
 
         sc.close();
     }
-    
 }
