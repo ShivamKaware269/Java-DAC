@@ -1,3 +1,4 @@
+// Program to check wheteher the number is Palindrome or not.
 // Palindrome of the number (A palindrome number is any integer that reads the same forwards and backward)
 
 import java.util.Scanner;
