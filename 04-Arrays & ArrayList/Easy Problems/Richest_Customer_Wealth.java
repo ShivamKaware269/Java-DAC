@@ -1,5 +1,8 @@
+// Leetcode - 1672
+
 public class Richest_Customer_Wealth {
     public static void main(String[] args) {
+        
         int candies[][] = {{1,5},{7,3},{5,3}};
 
         int richest = 0, indexi = 0, sum = 0;
@@ -9,7 +12,6 @@ public class Richest_Customer_Wealth {
             for(int j = 0; j < candies[i].length; j++) {
                 sum += candies[i][j];
             }
-
             if (sum > richest) {
                     richest = sum;
                     indexi = i;
@@ -20,4 +22,3 @@ public class Richest_Customer_Wealth {
 
     }   
 }
-
