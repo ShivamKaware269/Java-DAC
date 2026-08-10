@@ -21,5 +21,6 @@ public class Shuffle_The_Array {
         }
 
         System.out.println(Arrays.toString(ans));
+        
     }
 }
