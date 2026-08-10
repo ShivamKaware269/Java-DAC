@@ -25,6 +25,20 @@ public class Array_List_Syntax {
         list.add(75);
         list.add(76);
         list.add(77);
+        list.add(61);
+        list.add(62);
+        list.add(63);
+        list.add(64);
+        list.add(65);
+        list.add(66);
+        list.add(67);
+        list.add(71);
+        list.add(72);
+        list.add(73);
+        list.add(74);
+        list.add(75);
+        list.add(76);
+        list.add(77);
 
         System.out.println(list);
 
