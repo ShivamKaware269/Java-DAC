@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Kid_With_Greatest_Number_Of_Candies {
     public static void main(String[] args) {
+        
         int[] candies = {2,3,5,1,3};
         int extraCandies = 3;
         int sum = 0, max = 0;
@@ -15,9 +16,11 @@ public class Kid_With_Greatest_Number_Of_Candies {
                 max = candies[i];
             }
         }
+        
         System.out.println(max);
  
         for (int i = 0; i < candies.length; i++) {
+            
             sum = 0;
             sum = candies[i] + extraCandies;
 
