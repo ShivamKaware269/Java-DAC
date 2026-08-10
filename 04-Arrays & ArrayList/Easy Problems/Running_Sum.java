@@ -1,8 +1,12 @@
+// Leetcode - 1480
+
 import java.util.Arrays;
 
 public class Running_Sum {
     public static void main(String[] args) {
+        
         int[] a = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+        
         System.out.println(Arrays.toString(a));
         int sum = 0;
 
@@ -14,4 +18,3 @@ public class Running_Sum {
         System.out.println(Arrays.toString(a));
     }
 }
-
