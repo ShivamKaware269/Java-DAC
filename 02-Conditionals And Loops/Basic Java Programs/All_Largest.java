@@ -1,4 +1,5 @@
-// Take integer inputs till the user enters 0 and print the largest number from all.
+// Make a program to take integer inputs  from the user until the user enters 0.
+// Perform required operations on all the input numbers and print the largest number among all of them.
 
 import java.util.Scanner;
 
