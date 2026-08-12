@@ -1,4 +1,5 @@
-// Take integer inputs till the user enters 0 and print the sum of all numbers
+// Make a program to take integer inputs  from the user until the user enters 0.
+// Perform required operations on all the input numbers and print the sum of all the numbers.
 
 import java.util.Scanner;
 
@@ -23,4 +24,3 @@ public class All_Sum {
         sc.close();
     }
 }
-
