@@ -1,4 +1,4 @@
-// Area Of Circle Java Program
+// Program to Calculate Area Of Circle (Versatile)
 
 import java.util.Scanner;
 
