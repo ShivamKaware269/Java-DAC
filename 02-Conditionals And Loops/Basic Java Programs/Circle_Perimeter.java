@@ -1,4 +1,4 @@
-// Perimeter of Circle
+// Program to Calculate Perimeter of Circle (Versatile)
 
 import java.util.Scanner;
 
@@ -25,4 +25,3 @@ public class Circle_Perimeter {
         sc.close();
     }
 }
-
