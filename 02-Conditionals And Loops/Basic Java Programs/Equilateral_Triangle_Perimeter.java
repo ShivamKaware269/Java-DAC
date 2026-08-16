@@ -1,4 +1,4 @@
-// Perimeter of an Equilateral Triangle
+//// Program to Calculate Perimeter of an Equilateral Triangle (Versatile) 
 
 import java.util.Scanner;
 
@@ -13,4 +13,3 @@ public class Equilateral_Triangle_Perimeter {
         sc.close();
     }
 }
-
