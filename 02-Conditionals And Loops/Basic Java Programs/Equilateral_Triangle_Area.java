@@ -1,4 +1,4 @@
-// Area Of Equilateral Triangle
+// Program to Calculate Area Of Equilateral Triangle (Versatile) 
 
 import java.util.Scanner;
 
@@ -13,4 +13,3 @@ public class Equilateral_Triangle_Area {
         sc.close();
     }
 }
-
