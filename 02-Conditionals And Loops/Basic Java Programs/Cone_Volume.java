@@ -1,4 +1,4 @@
-// Volume of cone
+// // Program to Calculate Volume of cone (Versatile) 
 
 import java.util.Scanner;
 
@@ -19,4 +19,3 @@ public class Cone_Volume {
         sc.close();
     }
 }
-
