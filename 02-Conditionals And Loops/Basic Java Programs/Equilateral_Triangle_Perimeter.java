@@ -1,4 +1,4 @@
-//// Program to Calculate Perimeter of an Equilateral Triangle (Versatile) 
+// Program to Calculate Perimeter of an Equilateral Triangle (Versatile) 
 
 import java.util.Scanner;
 
