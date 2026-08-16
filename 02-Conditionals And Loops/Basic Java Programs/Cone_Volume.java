@@ -1,4 +1,4 @@
-// // Program to Calculate Volume of cone (Versatile) 
+// Program to Calculate Volume of cone (Versatile) 
 
 import java.util.Scanner;
 
