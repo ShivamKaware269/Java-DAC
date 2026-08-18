@@ -1,3 +1,5 @@
+// Program to find the sum of numbers upto N
+
 import java.util.Scanner;
 
 public class Sum_Of_N_Numbers {
