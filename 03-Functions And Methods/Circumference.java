@@ -1,3 +1,5 @@
+// Program to find the circumference of the circle with the help of methods (Functions)
+
 import java.util.Scanner;
 
 public class Circumference {
@@ -14,6 +16,8 @@ public class Circumference {
         sc.close();
     }
 
+// Parameterized Function
+    
     static double calc(double r) {
         double circumference = 2 * Math.PI * r; // Math.PI is a constant that represents the value of π (pi)
         return circumference;
