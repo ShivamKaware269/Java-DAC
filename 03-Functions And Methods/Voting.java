@@ -1,3 +1,5 @@
+// Write a program to find whether the person is eligible for voting or not using methods (Functions)
+
 import java.util.Scanner;
 
 public class Voting {
@@ -23,6 +25,4 @@ public class Voting {
             return 0;
         }
     }
-
 }
-
