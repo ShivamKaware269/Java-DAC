@@ -1,3 +1,5 @@
+// Write a program to find out the sum of two numbers using methods (Functions)
+
 import java.util.Scanner;
 
 public class Sum_Of_Two {
@@ -19,4 +21,3 @@ public class Sum_Of_Two {
         System.out.println("The sum of " + a + " and " + b + " is: " + sum);
     }
 }
-
