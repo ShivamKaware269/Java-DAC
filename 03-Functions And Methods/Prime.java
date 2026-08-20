@@ -1,3 +1,5 @@
+// Write a Program to find whether the number is prime or not using methods(Functions)
+
 import java.util.Scanner;
 
 public class Prime {
